@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 opencv = "0.63"
+chrono = "0.4"
+execute = "0.2"
